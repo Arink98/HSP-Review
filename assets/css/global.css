@@ -1,0 +1,13 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.col-center {
+    float: none;
+    margin: 0 auto;
+}
+
+textarea {
+    resize: none !important;
+}
+
